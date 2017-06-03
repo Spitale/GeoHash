@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993089706913",
+    "firebase_url": "https://geohashme.firebaseio.com",
+    "project_id": "geohashme",
+    "storage_bucket": "geohashme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993089706913:android:5aea8c4f51204986",
+        "android_client_info": {
+          "package_name": "i9.geohashme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993089706913-mput3em9hl6akd07t4ecvme1knvcdid2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "i9.geohashme",
+            "certificate_hash": "4056f66736438ed4c86cfb747525b2e529d0a43f"
+          }
+        },
+        {
+          "client_id": "993089706913-th0c4bacnptd21qm14gp1l2i32gcdslp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_DshDRABJTtiguD8YJQYxEQO4klu3UIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993089706913-th0c4bacnptd21qm14gp1l2i32gcdslp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
